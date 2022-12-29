@@ -6,7 +6,7 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/stephanmatzka/predictiv
 
 <img src = "https://cdn-icons-png.flaticon.com/512/2162/2162407.png" width = 100, height = 100>
 
-This synthetic dataset is modeled after an existing ***milling machine*** and consists of **10 000 data points** from a stored as rows with **14 features** in columns:
+This synthetic dataset is modeled after an existing ***milling machine*** and consists of **10,000 data points** stored as rows with **14 features** in columns:
 
 
 
