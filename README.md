@@ -1,4 +1,4 @@
-# Data Science CSCI 3320 Final Project | Predictive Maintenance Dataset
+# Data Science CSCI 3320 Final Project | Predictive Maintenance
 
 <a href="https://colab.research.google.com/drive/1DDEsCd9cCICfcxJQJMmKq9yyMYXAl3et?usp=sharing">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" width=100>
@@ -44,3 +44,9 @@ If at least one of the above failure modes is true, the process fails and the 'm
 
 This dataset is part of the following publication:
 S. Matzka, "Explainable Artificial Intelligence for Predictive Maintenance Applications," 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), 2020, pp. 69-74.
+
+**CRISP-DM** (*Cross Industry Standard Process for Data Mining*) is the process model I use.
+
+<div align="center"> 
+<img src="https://user-images.githubusercontent.com/46399191/211172960-c257a169-8927-4869-8187-f5e8e45d3eab.png" width=400>
+</div>
