@@ -1,6 +1,6 @@
 # Data Science CSCI 3320 Final Project | Predictive Maintenance
 
-<a href="https://colab.research.google.com/drive/1DDEsCd9cCICfcxJQJMmKq9yyMYXAl3et?usp=sharing">
+<a href="https://colab.research.google.com/github/ZakiKurdya/Predictive-Maintenance/blob/main/project_notebook.ipynb">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" width=100>
 </a>
 <h3>About Dataset 📁</h3> 
