@@ -23,8 +23,8 @@ for more information about random walk process used in `air temperature`, and `p
 
 6. `rotational speed` [rpm]: calculated from a power of 2860 W, overlaid with a normally distributed noise.
 7. `torque` [Nm]: torque values are normally distributed around 40 Nm with a SD = 10 Nm and no negative values.
-8.` tool wear` [min]: (breakdown and gradual failure of a cutting tool due to regular operation) The quality variants H/M/L add 5/3/2 minutes of tool wear to the used tool in the process.
-9. a '`machine failure`' label that indicates, whether the machine has failed in this particular datapoint for any of the following failure modes are true.
+8. `tool wear` [min]: (breakdown and gradual failure of a cutting tool due to regular operation) The quality variants H/M/L add 5/3/2 minutes of tool wear to the used tool in the process.
+9. a `machine failure` label that indicates, whether the machine has failed in this particular datapoint for any of the following failure modes are true.
 The machine failure consists of five independent failure modes:
 
 
